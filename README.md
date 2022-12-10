@@ -1,7 +1,8 @@
-```ad-note
-Dans Immuniyy Debugger, on peut retourner à l'affichage principale en cliquant sur l'onglet **Window --> CPU**
+# IMPORTANT
+
+Dans Immuniyy Debugger, on peut retourner à l'affichage principale en cliquant sur l'onglet `Window --> CPU`
+
 Il faut lancer les scripts avec PYTHON3
-```
 
 
 ## Mona Configuration
