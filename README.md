@@ -21,11 +21,7 @@ Cette commande permet de créer un dossier qui sera utilisé par mona pour place
 
 ## Lancement du programme dans Immunity
 
-On lance Immunity Debugger en **administrateur** en utilisant l'icone sur le bureau
-
-![image](https://user-images.githubusercontent.com/93264654/206851785-07be9db2-ca19-442d-9fc7-0cbde6e248c0.png)
-
-Une fois sur Immunity, on lance le programme en allant dans :
+Une fois sur Immunity et mona configuré, on lance le programme en allant dans :
 `File -> Open -> Desktop -> vulnerable-apps -> oscp -> oscp.exe`
 
 ![image](https://user-images.githubusercontent.com/93264654/206851817-91bf3925-ac69-4da4-a745-7aad4fe36821.png)
